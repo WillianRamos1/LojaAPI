@@ -1,0 +1,36 @@
+C:\Users\Willian\source\repos\Loja.Domain\bin\Debug\net6.0\Loja.Domain.deps.json
+C:\Users\Willian\source\repos\Loja.Domain\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Loja.Domain\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\refint\Loja.Domain.dll
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Loja.Domain\obj\Debug\net6.0\ref\Loja.Domain.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\bin\Debug\net6.0\Loja.Domain.deps.json
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\refint\Loja.Domain.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Domain\obj\Debug\net6.0\ref\Loja.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\bin\Debug\net6.0\Loja.Domain.deps.json
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.csproj.AssemblyReference.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.AssemblyInfo.cs
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\refint\Loja.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Domain\obj\Debug\net6.0\ref\Loja.Domain.dll

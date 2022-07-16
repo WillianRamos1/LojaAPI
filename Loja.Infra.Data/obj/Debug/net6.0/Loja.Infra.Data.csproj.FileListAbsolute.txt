@@ -1,0 +1,45 @@
+C:\Users\Willian\source\repos\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.deps.json
+C:\Users\Willian\source\repos\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\refint\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\ref\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CopyComplete
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.deps.json
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CopyComplete
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\refint\Loja.Infra.Data.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Infra.Data\obj\Debug\net6.0\ref\Loja.Infra.Data.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.deps.json
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.AssemblyInfo.cs
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.csproj.CopyComplete
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\refint\Loja.Infra.Data.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\Loja.Infra.Data.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Infra.Data\obj\Debug\net6.0\ref\Loja.Infra.Data.dll

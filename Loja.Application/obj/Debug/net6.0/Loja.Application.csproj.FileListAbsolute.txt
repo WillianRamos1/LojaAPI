@@ -1,0 +1,42 @@
+C:\Users\Willian\source\repos\Loja.Application\bin\Debug\net6.0\Loja.Application.deps.json
+C:\Users\Willian\source\repos\Loja.Application\bin\Debug\net6.0\Loja.Application.dll
+C:\Users\Willian\source\repos\Loja.Application\bin\Debug\net6.0\Loja.Application.pdb
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.dll
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\refint\Loja.Application.dll
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\Loja.Application.pdb
+C:\Users\Willian\source\repos\Loja.Application\obj\Debug\net6.0\ref\Loja.Application.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Application.deps.json
+C:\Users\Willian\source\repos\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Application.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Application.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfo.cs
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\refint\Loja.Application.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\ref\Loja.Application.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\source\repos\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\source\repos\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CopyComplete
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Application.deps.json
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Application.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Domain.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\bin\Debug\net6.0\Loja.Domain.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.AssemblyReference.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.AssemblyInfo.cs
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.csproj.CopyComplete
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\refint\Loja.Application.dll
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\Loja.Application.pdb
+C:\Users\Willian\Documents\Projetos Back-End\LojaAPI\Back-End\Loja.Application\obj\Debug\net6.0\ref\Loja.Application.dll

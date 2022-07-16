@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/mWyzWYbh/42qorcet0eYHmTjK8Qly1GY15goH09pbmr9wnQspJ+JEzH8+gfVjxycqo9cTJKmwYi9jbvVeCig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Willian\\Documents\\Projetos Back-End\\LojaAPI\\Back-End\\Loja.Application\\Loja.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willian\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Willian\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\Willian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
